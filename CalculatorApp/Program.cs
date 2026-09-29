@@ -54,9 +54,6 @@ void CalculatorApp()
         Console.WriteLine("You did not select a valid number between 1-4");
     }
 
-
-
-
     // Output the answer to the console
     Console.WriteLine("The result is: {result}", result);
     Console.ReadKey();
